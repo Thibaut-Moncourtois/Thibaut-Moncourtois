@@ -16,7 +16,6 @@ Après plusieurs années passées dans le domaine du sport, j’ai engagé un pr
 
 Après 1 an à m’auto former, j’ai décidé d’entreprendre une formation de développeur **Full Stack JS** durant 6 mois afin de valider mes connaissances et d’obtenir un titre professionnel.
 
-Suite à ça, j’ai pour forte ambition de me spécialiser sur le **CRM Salesforce** ☁️
 
 
 <h3 align="right">Languages et outils:</h3>
